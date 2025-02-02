@@ -2,7 +2,7 @@
 
 A secure and user-friendly e-commerce platform exclusively for IIIT Hyderabad community members. This platform facilitates buying and selling of items within the campus community, ensuring trust and convenience.
 
-![IIITH Buy & Sell](https://your-image-url.com](https://github.com/adzi283/DASS/issues/1#issue-2825680682) <!-- You can add a screenshot/logo here -->
+![IIITH Buy & Sell](./frontend/public/IIITBUYSELLRENT.png) <!-- You can add a screenshot/logo here -->
 
 ## 🌟 Features
 
